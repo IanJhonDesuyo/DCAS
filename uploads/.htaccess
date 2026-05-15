@@ -1,0 +1,4 @@
+<Files "*.csv">
+  Require all denied
+</Files>
+Options -Indexes
